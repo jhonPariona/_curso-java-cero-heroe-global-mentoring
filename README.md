@@ -17,7 +17,7 @@
 > identificadores en camelCase, se puede usar `_` `$` numeros(excepto al inicio) letras
 > Tipos de datos inicia en Mayuscula(clases, interfaces)
 
-### [Strings](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/Strings#strings)
+### [Strings y caracteres especiales](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/Strings#strings)
 ### VAR
 A partir del jdk 10 se puede usar var `var identificador = valor` var infiere el tipo del identificador de acuerdo al valor. Siempre se debe de inicializar la variable
 ### [Concatenación](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/concatenacion#concatenaci%C3%B3n-en-java)
