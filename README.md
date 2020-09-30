@@ -40,3 +40,20 @@ Para saber`Byte.SIZE`(num bits), valor minimo `Byte.MIN_VALUE`, maximo `Byte.MAX
 - `tipo binario = 0b1010;`
 
 Si imprimimos con `sout` imprimira e valor decimal para cualquiera de ellos
+
+### Decimales
+> Las literales en decimales por defecto son de tipo double por eso cuando usams float debemos ponerlo F; tbn podemos agregar D en double es opcional
+- float(32), double()
+- clase Float, Double
+
+### Char ''
+> Siempre usa comilla simple
+- char(16)
+
+`char identificadorUnicode = '\u0021'`
+
+`char identificadorDecimal = 33`
+
+`char identificadorSimbolo = '!'`
+
+- clase Character
