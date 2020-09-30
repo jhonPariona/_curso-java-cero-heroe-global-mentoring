@@ -4,7 +4,7 @@
 
 <h3 align="center">☕ Aprende a programar en el lenguaje Java y conviértete en un programador Java Experto.</h3>
 
-> El + es el único operador sobrecargado y la expresion se analiza de izquierda a derecha, es decir si primero encuentra numero lo que hara es sumar y si primero encuentra string lo que hará es concatenar.
+> Las expresiones se evalúan de izquierda a derecha
 
 ## Instalacion de JDK
   - descargar [jdk](https://www.udemy.com/course/java-masterclass-de-cero-a-heroe-en-tiempo-record/learn/lecture/12821593?start=21#notes)
