@@ -12,5 +12,6 @@
     - [netbeans 12 linux](https://computingforgeeks.com/install-netbeans-ide-on-debian-ubuntu-and-linux-mint/) Instalador .sh. Usamos netbeans 12 con java 13 y netbeans 8 con java 8 (para gestionar las versiones usamos [jenv](https://gist.github.com/jhonPariona/8af389c98b63a06223dfd053dd78ff26#install-jenv) [manual instalacion](https://www.jenv.be/))
     
 
+## VARIABLES
 
-## [Strings](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/Strings#strings)
+### [Strings](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/Strings#strings)
