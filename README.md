@@ -25,10 +25,18 @@ A partir del jdk 10 se puede usar var `var identificador = valor` var infiere el
 
 ## Tipos primitivos
 
-### Primitivos
+### enteros
 - byte(8 bits) short(16) int(32) long(64)
   `tipo identificador = valor(literal);`
 - clases Byte, Short, Integer, Long
 Para saber`Byte.SIZE`(num bits), valor minimo `Byte.MIN_VALUE`, maximo `Byte.MAX_VALUE`
 
 > Las literales en java son de tipo int por defecto por eso cuando usamos long debemos de agregar `L` al final, es recomendable usar mayuscula ya q tbn se puede usar minuscula `l`
+
+#### Sisemas de nuemracion
+- `tipo decimal = 10;`
+- `tipo octal = 012;`
+- `tipo hexadecimal = 0xA;`
+- `tipo binario = 0b1010;`
+
+Si imprimimos con `sout` imprimira e valor decimal para cualquiera de ellos
