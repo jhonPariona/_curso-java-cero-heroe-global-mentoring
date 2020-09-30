@@ -22,3 +22,13 @@
 A partir del jdk 10 se puede usar var `var identificador = valor` var infiere el tipo del identificador de acuerdo al valor. Siempre se debe de inicializar la variable
 ### [Concatenación](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/concatenacion#concatenaci%C3%B3n-en-java)
 ### [Pedir informacion al usuario linea comandos](https://github.com/jhonPariona/_curso-java-cero-heroe-global-mentoring/tree/master/pedirInfo#pedir-info)
+
+## Tipos primitivos
+
+### Primitivos
+- byte(8 bits) short(16) int(32) long(64)
+  `tipo identificador = valor(literal);`
+- clases Byte, Short, Integer, Long
+Para saber`Byte.SIZE`(num bits), valor minimo `Byte.MIN_VALUE`, maximo `Byte.MAX_VALUE`
+
+> Las literales en java son de tipo int por defecto por eso cuando usamos long debemos de agregar `L` al final, es recomendable usar mayuscula ya q tbn se puede usar minuscula `l`
